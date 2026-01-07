@@ -1,6 +1,4 @@
 # SportSpot - Sports Field Booking Platform
-# DATABASE SYSTEMS CLASS Dr.Nasser Assim
-
 A full-stack web application for booking and managing sports facilities with role-based access control.
 
 ---
