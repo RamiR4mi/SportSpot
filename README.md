@@ -221,11 +221,5 @@ Frontend will run on **http://localhost:5173**
 
 5. **Open Browser**: Navigate to **http://localhost:5173**
 
-## 👨‍💻 Team Members
-
-- **Rami Mazaoui**
-- **Yasmine Espachs Bouamoud**
-- **Rabab Saadeddine**
-
 
 This project is developed for academic purposes as part of CSC3326 Database Course.
